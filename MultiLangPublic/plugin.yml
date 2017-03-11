@@ -1,0 +1,8 @@
+main: fr.x9nico.multilang.Main
+name: MultiLangGUI
+author: x9nico
+version: 1.0
+softdepend: [AdvancedMultiLanguage]
+commands:
+   lang:
+      description: Ouvrir le menu des langues
